@@ -1,0 +1,3 @@
+function getZZ() {
+  return 'zz'
+}
